@@ -2,6 +2,8 @@
 
 **Finder** é uma ferramenta de código aberto desenvolvida para identificar pessoas e áreas afetadas por desastres climáticos no Brasil. Este repositório organiza scripts e modelos que trabalham com dados climáticos e transacionais para realizar análises geoespaciais avançadas e gestão de crises.
 
+![Áreas afetadas](images/polig_image.png)
+
 ## Estrutura do Repositório
 
 - **`Enchentes/`**: Scripts e dados relacionados à coleta e análise de eventos de enchentes.
